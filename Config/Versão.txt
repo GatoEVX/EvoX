@@ -1,5 +1,5 @@
 0;
-3.6;
+3.9;
 2.592.586.0  2.592.586.0;
 https://github.com/Kendomurftz/RobloxOld/releases/download/Relase/ROBLOXCORPORATION.ROBLOX_2.592.586.0_neutral_._55nm5eh3cm0pr.Msixbundle;
 1;
