@@ -5,5 +5,5 @@ https://github.com/Kendomurftz/RobloxOld/releases/download/Relase/ROBLOXCORPORAT
 0;
 ;
 https://evolutionxrbx.xyz/;
-https://fst.ninja/dlls/Module.dll;
-https://fst.ninja/dlls/FluxteamAPI.dll;
+https://cdn.discordapp.com/attachments/1160605192190951516/1160605276551008286/Module.dll;
+https://cdn.discordapp.com/attachments/1160605192190951516/1160605276219654154/FluxteamAPI.dll;
