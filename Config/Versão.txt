@@ -1,9 +1,12 @@
 1 Estamos fazendo uma grande atualização para que o EvolutionX tenha suporte para o RobloxPlayer. Entre em nosso servidor para ficar informado. evolutionxrbx.xyz;
 4.2;
-2.592.586.0  2.592.586.0;
-https://github.com/Kendomurftz/RobloxOld/releases/download/Relase/ROBLOXCORPORATION.ROBLOX_2.592.586.0_neutral_._55nm5eh3cm0pr.Msixbundle;
-0;
-;
+Versões do Roblox: OK;
+
+download do roblox--------------------------------------------;
+https://discord.com/invite/evolutionxrbx;
 https://evolutionxrbx.xyz/;
-https://cdn.discordapp.com/attachments/1160605192190951516/1160605276551008286/Module.dll;
-https://cdn.discordapp.com/attachments/1160605192190951516/1160605276219654154/FluxteamAPI.dll;
+
+Link da nova API (o de baixo será descontinuado);
+
+https://raw.githubusercontent.com/GatoEVX/EvoX/main/WebView2Loader.dll;
+https://raw.githubusercontent.com/GatoEVX/EvoX/main/ua_md_default.xshd;
